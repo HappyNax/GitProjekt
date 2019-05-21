@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maksm\\source\\repos\\program\\Test\\Test.csproj": {}
+    "C:\\GIt\\GIt projekt\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maksm\\source\\repos\\program\\program\\program.csproj": {
+    "C:\\GIt\\GIt projekt\\program\\program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksm\\source\\repos\\program\\program\\program.csproj",
+        "projectUniqueName": "C:\\GIt\\GIt projekt\\program\\program.csproj",
         "projectName": "program",
-        "projectPath": "C:\\Users\\maksm\\source\\repos\\program\\program\\program.csproj",
+        "projectPath": "C:\\GIt\\GIt projekt\\program\\program.csproj",
         "packagesPath": "C:\\Users\\maksm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksm\\source\\repos\\program\\program\\obj\\",
+        "outputPath": "C:\\GIt\\GIt projekt\\program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\maksm\\source\\repos\\program\\Test\\Test.csproj": {
+    "C:\\GIt\\GIt projekt\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksm\\source\\repos\\program\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\GIt\\GIt projekt\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\maksm\\source\\repos\\program\\Test\\Test.csproj",
+        "projectPath": "C:\\GIt\\GIt projekt\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\maksm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksm\\source\\repos\\program\\Test\\obj\\",
+        "outputPath": "C:\\GIt\\GIt projekt\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -100,8 +100,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\maksm\\source\\repos\\program\\program\\program.csproj": {
-                "projectPath": "C:\\Users\\maksm\\source\\repos\\program\\program\\program.csproj"
+              "C:\\GIt\\GIt projekt\\program\\program.csproj": {
+                "projectPath": "C:\\GIt\\GIt projekt\\program\\program.csproj"
               }
             }
           }
