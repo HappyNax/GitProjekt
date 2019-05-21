@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Zadanie";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Use this area to provide additional information.</p>
+<!DOCTYPE html>
+<php></php>
+
+<html lang="en">
+<head>
+</head>
+<body>
+    <form action="https://localhost:44377/Project/AddProject" method="post" class="form-horizontal">
+        <fieldset>
+
+
+
+
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="name">Name</label>
+                <div class="col-md-4">
+                    <input id="name" name="name" class="form-control" type="text" >
+                    <span class="help-block">Podaj Nazwe</span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-md-4 control-label" for="id">ID</label>
+                <div class="col-md-4">
+                    <input id="id" name="id" class="form-control" required="" type="number" >
+                    <span class="help-block">Podaj ID</span>
+                </div>
+            </div>
+
+            <h4>
+                <center>
+                    <div class="form-group">
+                        <label class="col-md-4 control-label" for="dodajtrase"></label>
+                        <div class="col-md-4">
+                            <button id="submit" name="submit" class="btn btn-primary">Dodaj trasę</button>
+                        </div>
+                    </div>
+                </center>
+            </h4>
+
+        </fieldset>
+    </form>
+
+
+    <script type="text/javascript" src="assets/js/bootstrap.js"></script>
+</body>
+
+</html>
+
+
